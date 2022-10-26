@@ -1,3 +1,5 @@
+The crime with the highest mean crime rate from all states was found to be "Offences against Property"
+The crime with the highest sum of incidences from all states was found to be "Theft"
 Delhi has the highest crime rate (all crimes combined)
 Maharashtra has the maximum incidences of crime (all crimes combined)
 Uttar Pradesh has shown low crime rate but high incidences of crime indicationg that when compared with respect to the states population, the crimes are not that significant but in absolute numbers they are quite high
@@ -7,5 +9,3 @@ The State with highest rape crime rate is Chandigarh
 The State with highest rape incidences is Madhya Pradesh
 The State with the highest crime rate in cruelty by husband is West Bengal
 The State with higest dowry deaths incidences is Uttar Pradesh
-The crime with the highest mean crime rate from all states was found to be "Offences against Property"
-The crime with the highest sum of incidences from all states was found to be "Theft"
